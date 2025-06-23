@@ -1,0 +1,10 @@
+{
+  "name": "backend1",
+  "version": "1.0.0",
+  "description": "Basic backend for learning",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {}
+}
